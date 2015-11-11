@@ -2,13 +2,13 @@
 
 This tool was originally available as Helium_ab2tar.zip, original copy seems to have vanished.
 
+Archived for convenience here, all copyright (c) original authors.
+
 ## License
 
 Originally written by xaos.cz @ XDA-Devs
 
 Makefile by seXneo @ XDA-Devs
-
-Archived for convenience here, all copyright (c) original authors.
 
 http://forum.xda-developers.com/showthread.php?t=2616961
 
